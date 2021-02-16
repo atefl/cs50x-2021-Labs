@@ -1,2 +1,3 @@
 # cs50x-2021-Labs
-this is correct labs of cs50x 2021
+this is solutions of labs in cs50x 2021
+by Atef Lassoued
